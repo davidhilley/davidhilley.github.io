@@ -32,6 +32,6 @@ Now focused on coding, data analysis, and database management, I am seeking a Ju
 - [GitHub Repository](https://github.com/davidhilley/Google_Case_Study1)
 - [Slideshow Presentation](https://docs.google.com/presentation/d/1NPybtTUdb-RQsuwG00Ia4Usv8cYhofcIOo2ffZENf6Q/)
 ### Google Analytics Case Study 2
-- [GitHub Repository]()
+- [Kaggle Notebook](https://www.kaggle.com/code/davidhilley/case-study-2)
 - [Slideshow Presentation](https://docs.google.com/presentation/d/1rpsH8ZpoorWeSfCcFgS2Xlb9gq0AmVYVQaZzRj6XjdE/)
 
