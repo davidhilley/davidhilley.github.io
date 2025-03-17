@@ -11,8 +11,7 @@ Now focused on coding, data analysis, and database management, I am seeking a Ju
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Google Suite (Docs, Sheets, Slides)          | <a href="https://google.com">Detection Lab</a>|
-| R Studio & Kaggle Notebooks | <a href="https://google.com">Detection Lab</a>|
+| R Studio & Kaggle Notebooks | <a href="https://www.kaggle.com/code/davidhilley/case-study-2">R Case Study</a>|
 
 ## Tools
 
@@ -24,11 +23,15 @@ Now focused on coding, data analysis, and database management, I am seeking a Ju
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
-- [Google Analysitc Case Study 1](https://github.com/davidhilley/Google_Case_Study1)
-- [Google Analytics Case Study 2](INSERT_REPOSITORY_LINK_HERE)
+### Google Analytics Case Study 1
+- [GitHub Repository](https://github.com/davidhilley/Google_Case_Study1)
+- [Slideshow Presentation](https://docs.google.com/presentation/d/1NPybtTUdb-RQsuwG00Ia4Usv8cYhofcIOo2ffZENf6Q/)
+### Google Analytics Case Study 2
+- [GitHub Repository]()
+- [Slideshow Presentation](https://docs.google.com/presentation/d/1rpsH8ZpoorWeSfCcFgS2Xlb9gq0AmVYVQaZzRj6XjdE/)
+
