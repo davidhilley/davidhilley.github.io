@@ -1,5 +1,6 @@
 # Hello, I'm David Hilley
 I like to explore datasets, make charts, and present them :)
+{% comment %}
 <!--
 <a href="https://www.linkedin.com/in/david-hilley-51a892161/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -29,6 +30,7 @@ Now focused on coding, data analysis, and database management, I am seeking a Ju
 <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 -->
+{% endcomment %}
 ## Portfolio
 ### Data Analytics Case Study - Cyclistic Ride-Sharing Activity
 - [GitHub Repository](https://github.com/davidhilley/Google_Case_Study1)
